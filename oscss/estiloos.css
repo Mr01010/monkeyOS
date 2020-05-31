@@ -1,0 +1,23 @@
+body {
+    background-image: url('https://lh6.googleusercontent.com/OqidiofcHXGU5jQjIu-Kjz5-vDX0835kkEsjniJ26ZXRk64KzsYY_RPeb0I7BJ2-T74gnZkrydIywGjKc_1nXblLzdzFLSu_u-YswGa0i1VJa6oO-HSw=w1280');
+  
+  background-size: cover;
+    font-family: Arial;
+      
+  }
+  
+  a{
+    color: Black;
+   text-decoration: none;
+  }
+
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .hora{
+
+    text-align: left;
+
+  }
